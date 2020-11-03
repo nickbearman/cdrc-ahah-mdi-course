@@ -250,5 +250,5 @@ Loops are a great computer programming concept we can use. Working from the exam
 
 This practical was written using R 3.5.1 (2018-07-02) and RStudio 1.1.463, and tested on R 4.0.2 (2020-06-22) and RStudio Cloud (RStudio Server Pro Version 1.3.1056-1) by Dr. Nick Bearman (nick@geospatialtrainingsolutions.co.uk). 
 
-This work is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/. The latest version of the workbook is available from <!-- data.cdrc.ac.uk and -->  https://github.com/nickbearman/cdrc-ahah-mdi-course. This version was created on `r format(Sys.time(), '%d %B %Y')`. 
+This work is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/. The latest version of the workbook is available from https://data.cdrc.ac.uk/dataset/advanced-gis-methods-training-ahah-and-multi-dimensional-indices and https://github.com/nickbearman/cdrc-ahah-mdi-course. This version was created on `r format(Sys.time(), '%d %B %Y')`. 
 

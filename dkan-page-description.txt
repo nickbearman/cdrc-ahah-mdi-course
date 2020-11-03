@@ -1,0 +1,25 @@
+DKAN / Data.cdrc.ac.uk Page Description on https://data.cdrc.ac.uk/dataset/advanced-gis-methods-training-ahah-and-multi-dimensional-indices
+
+Advanced GIS Methods Training: AHAH and Multi-Dimensional Indices
+
+This course presents the Access to Healthy Assets & Hazards (AHAH) dataset from the CDRC and the methods used to create them, multi-dimensional indices. Multi-dimensional indices are used to create many different data sets, including the Index of Multiple Deprivation. This course will explain the AHAH dataset, how and why it was created, and what it can be used for. You will also learn how to use the multi-dimensional indices method to create your own index, using AHAH as an example. 
+
+It is split into two parts, each with a video clip and a series of commands to work through:
+- Part 1: Access to Healthy Assets & Hazards (AHAH)
+- Part 2: Multi Dimensional Indices (MDI)
+
+*You need some prior knowledge of R to get the most from this course. If you are new to R, we recommend you complete the [Short Course on Using R as a GIS](https://data.cdrc.ac.uk/dataset/short-course-using-r-gis) first.*
+
+After completing the material, you will:
+- Know what AHAH is and what it can be used for
+- Be aware of how AHAH was created
+- Understand some of its key strengths and weaknesses
+- Know how to use Access to Healthy Assets & Hazards (AHAH) in RStudio
+- Be able to recreate the AHAH MDI
+- Understand why we need to transform some of the data
+- Feel confident to add/remove domains from this index and understand the results
+- Be able to create your own multi dimensional index
+
+To access the course, click on Download next to the 'Part 1: AHAH - Workbook' or 'Part 2: MDI - Workbook' files below. It is recommended that you have the course material open in one window, and RStudio open in another window next to it, using either a big monitor, or two monitors. If you have any comments or feedback, please email us.  
+
+CDRC periodically run training course featuring the material in this course. Please sign up to our mailing list, check out our website https://www.cdrc.ac.uk or email <a href="mailto:info@cdrc.ac.uk">info@cdrc.ac.uk</a> for more details. 

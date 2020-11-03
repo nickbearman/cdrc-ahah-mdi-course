@@ -282,5 +282,5 @@ This practical was written using R 4.0.2 (2020-06-22) and RStudio Cloud (RStudio
 
 This code is based on the AHAH code, from https://github.com/GDSL-UL/AHAH/blob/master/create_index_version2.R. Sample code is also available in the scripts folder, for the two domains in `mdi-all-domains-example.R` and all four domains in `mdi-all-domains-example.R`. 
 
-This work is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/. The latest version of the workbook is available from <!-- data.cdrc.ac.uk and --> https://github.com/nickbearman/cdrc-ahah-mdi-course. This version was created on `r format(Sys.time(), '%d %B %Y')`. 
+This work is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/. The latest version of the workbook is available from https://data.cdrc.ac.uk/dataset/advanced-gis-methods-training-ahah-and-multi-dimensional-indices and https://github.com/nickbearman/cdrc-ahah-mdi-course. This version was created on `r format(Sys.time(), '%d %B %Y')`. 
 
